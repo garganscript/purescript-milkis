@@ -1,5 +1,5 @@
 { sources = [ "src/**/*.purs", "test/**/*.purs" ]
-, name = "dom-simple"
+, name = "milkis"
 , dependencies =
     [ "aff"
     , "aff-promise"
